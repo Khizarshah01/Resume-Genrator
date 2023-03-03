@@ -1,9 +1,9 @@
 <h2 align="center"><b>Owner: <a href="https://github.com/Yashdon999">Maku Gang 🇮🇳</a></b></h2>
 <br>
-<p align="center"><img src="https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto/v1625166167/1625166166.jpg"></a></p> 
+<p align="center"><img src="https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto/v1625166167/1625166166.jpg" alt="Resume Generator Logo"></p> 
 </p>
 <h1>RESUME GENERATOR</h1>
-<b>A RESPONSIVE AND USEFULL WEB.</b>
+<b>A RESPONSIVE AND USEFUL WEB.</b>
 <br>
 <br>
 
@@ -66,7 +66,7 @@ If `npm install` does not work, try using:
 
 # Web URL
 
-.....
+......
 
 # Credits
 
